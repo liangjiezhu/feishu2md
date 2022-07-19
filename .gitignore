@@ -15,3 +15,7 @@
 # vendor/
 bin/
 feishu2md-amd64.zip
+/.idea/.gitignore
+/.idea/feishu2md.iml
+/.idea/modules.xml
+/.idea/vcs.xml
